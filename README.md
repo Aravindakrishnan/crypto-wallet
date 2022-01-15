@@ -47,4 +47,4 @@ nodemon ./dist/index.js
 `Transactions` output picture
 <br/><br/>
 
-![transaction-picture](https://github.com/Aravindakrishnan/crypto-wallet/blob/main/images/output3.png)
+![transaction-picture](https://github.com/Aravindakrishnan/crypto-wallet/blob/main/images/output3.PNG)
