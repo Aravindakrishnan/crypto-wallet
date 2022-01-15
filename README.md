@@ -27,7 +27,7 @@ nodemon ./dist/index.js
 ## Little Doc
 
 `index.ts` file 
-![index-doc](./images/index-doc.png)
+![index-doc](https://github.com/Aravindakrishnan/crypto-wallet/blob/main/images/index-doc.png)
 
 ## Outputs
 
@@ -35,16 +35,16 @@ nodemon ./dist/index.js
 `Fiat-balance` & `Crypto-purchased` output picture
 <br/><br/>
 
-![fiat-balance-picture](./images/output1.png)
+![fiat-balance-picture](https://github.com/Aravindakrishnan/crypto-wallet/blob/main/images/output1.png)
 
 <br/><br/>
 `Viewing crypto balance` output picture
 <br/><br/>
 
-![crypto-balance-picture](./images/output2.png)
+![crypto-balance-picture](https://github.com/Aravindakrishnan/crypto-wallet/blob/main/images/output2.png)
 
 <br/><br/>
 `Transactions` output picture
 <br/><br/>
 
-![transaction-picture](./images/output3.png)
+![transaction-picture](https://github.com/Aravindakrishnan/crypto-wallet/blob/main/images/output3.png)
