@@ -1,5 +1,8 @@
 # Crypto-Wallet Command-Line Software
 
+<br>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
+
 ### How to compile it and run it ?
 
 Clone the repository 
